@@ -2,6 +2,11 @@
 
 This repository is a personal lab for experimenting with **Azure AI Services** and preparing for the **AI-102 Azure AI Engineer Associate** exam.
 
+## ⚠️ AI-102 Retirement
+This certification is scheduled to retire on June 30, 2026. More info:
+- https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams
+- https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128
+
 ## ⚠️ Disclaimer
 
 At the time of this writing, Azure is continuously updating its AI concepts and services to keep up with the rapidly evolving AI landscape. As a result, some SDK packages, APIs, or functions may not work as expected or could be deprecated without notice. 
